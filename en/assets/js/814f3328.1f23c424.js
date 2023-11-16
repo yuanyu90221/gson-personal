@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_personal=self.webpackChunkchicken_personal||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"vue-ts \u6a21\u677f","permalink":"/en/blog/vue-ts-template-post"}]}')}}]);
