@@ -130,8 +130,12 @@ const config = {
             position: "right",
             items: [
               {
+                href: "https://blog.lychicken.com/",
+                label: "Chicken's Blog",
+              },
+              {
                 href: "https://mileschou.me/",
-                label: "Miles' Blog",
+                label: "Miles's Blog",
               },
               {
                 href: "https://mtwmt.com/",
