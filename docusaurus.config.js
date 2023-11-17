@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "我是元迪",
-  tagline: "河河河河河河",
+  title: "我是gson",
+  tagline: "welcome",
   favicon: "img/OIP.jfif",
 
   // Set the production url of your site here
@@ -77,7 +77,7 @@ const config = {
         { property: "og:title", content: "I'm Gson" },
         { property: "og:url", content: "https://gson.lychicken.com/" },
         { property: "og:site_name", content: "Gson" },
-        { property: "og:description", content: "河河河河河河" },
+        { property: "og:description", content: "Gson's blog" },
         { property: "og:locale", content: "zh_TW" },
         { property: "og:width", content: "300" },
         { property: "og:height", content: "301" },
