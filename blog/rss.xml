@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>我是元迪 Blog</title>
+        <title>我是gson Blog</title>
         <link>https://gson.lychicken.com/blog</link>
-        <description>我是元迪 Blog</description>
+        <description>我是gson Blog</description>
         <lastBuildDate>Wed, 07 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
