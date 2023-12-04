@@ -112,7 +112,7 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`Hello from ${siteConfig.title}`} description="河河河河河河">
+    <Layout title={`Hello from ${siteConfig.title}`} description="">
       <HomepageHeader />
     </Layout>
   );
